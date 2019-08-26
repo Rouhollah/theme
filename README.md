@@ -1,2 +1,0 @@
-# theme
-create training theme
