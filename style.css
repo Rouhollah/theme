@@ -1,11 +1,5 @@
-.gridContainer {
-    display: grid;
-    width: 750px;
-grid-template-columns: repeat(auto-fill, minmax(40px, 1fr));
-         grid-template-rows:  2fr 2fr 1fr;
-    border: 1px solid #ff00ff;
-}
-.gridItems{
+body {
+    /* background-image: url("assets/background/stadium-1920x1601.jpg"); */
+    background-color: #cccccc;
+   }
 
-border: 1px dashed #00ff00;
-}
