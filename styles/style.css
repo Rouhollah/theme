@@ -8,7 +8,8 @@ body {
         display: none;
     }
     .carousel-inner .carousel-item>div:first-child {
-        display: block;
+        display: contents;
+        
     }
 }
 
